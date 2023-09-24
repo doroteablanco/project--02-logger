@@ -8,6 +8,7 @@ input.onButtonPressed(Button.B, function () {
 })
 let log_control = ""
 radio.setGroup(100)
+basic.showIcon(IconNames.No)
 basic.forever(function () {
 	
 })
